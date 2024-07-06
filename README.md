@@ -1,4 +1,3 @@
-<<<<<<<<<<<<<<  ✨ Codeium Command ⭐ >>>>>>>>>>>>>>>>
 # Machine Learning Template
 
 This is a template project for Machine Learning projects, including both the code and the project structure.
@@ -52,4 +51,3 @@ To get started with this project:
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-<<<<<<<  cfe841aa-3e49-462d-a598-6e89c1b18d2b  >>>>>>>
